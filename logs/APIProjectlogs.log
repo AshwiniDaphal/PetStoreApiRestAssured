@@ -1,0 +1,24 @@
+[INFO ]2024-11-2403:55:48.594[main]log.LoggerLoad1)-userPayload java object for post isUser(id=100, username=User1, firstName=john , lastName=kennedy, email=test1@gmail.com, password=abcd, phone=2147483647, userStatus=0)
+[INFO ]2024-11-2403:55:48.636[main]log.LoggerLoad1)-I m in post user method
+[INFO ]2024-11-2403:55:48.858[main]log.LoggerLoad1)-userPayload java object for post isUser(id=101, username=User2, firstName=kim, lastName=kom, email=test2@gmail.com, password=efgh, phone=1111122222, userStatus=0)
+[INFO ]2024-11-2403:55:48.864[main]log.LoggerLoad1)-I m in post user method
+[INFO ]2024-11-2403:55:49.083[main]log.LoggerLoad1)-userPayload java object for post isUser(id=102, username=User3, firstName=smith, lastName=roherman, email=test3@gmail.com, password=ijkl, phone=2147483647, userStatus=0)
+[INFO ]2024-11-2403:55:49.087[main]log.LoggerLoad1)-I m in post user method
+[INFO ]2024-11-2403:55:49.280[main]log.LoggerLoad1)-userPayload java object for post isUser(id=103, username=user4, firstName=, lastName=asda, email=test4@gmail.com, password=efcd, phone=2147483647, userStatus=0)
+[INFO ]2024-11-2403:55:49.286[main]log.LoggerLoad1)-I m in post user method
+[INFO ]2024-11-2404:02:04.994[main]log.LoggerLoad1)-userPayload java object for post isUser(id=100, username=User1, firstName=john , lastName=kennedy, email=test1@gmail.com, password=abcd, phone=2147483647, userStatus=0)
+[INFO ]2024-11-2404:02:05.031[main]log.LoggerLoad1)-I m in post user method
+[INFO ]2024-11-2404:02:05.231[main]log.LoggerLoad1)-userPayload java object for post isUser(id=101, username=User2, firstName=kim, lastName=kom, email=test2@gmail.com, password=efgh, phone=1111122222, userStatus=0)
+[INFO ]2024-11-2404:02:05.234[main]log.LoggerLoad1)-I m in post user method
+[INFO ]2024-11-2404:02:05.452[main]log.LoggerLoad1)-userPayload java object for post isUser(id=102, username=User3, firstName=smith, lastName=roherman, email=test3@gmail.com, password=ijkl, phone=2147483647, userStatus=0)
+[INFO ]2024-11-2404:02:05.456[main]log.LoggerLoad1)-I m in post user method
+[INFO ]2024-11-2404:02:05.679[main]log.LoggerLoad1)-userPayload java object for post isUser(id=103, username=user4, firstName=, lastName=asda, email=test4@gmail.com, password=efcd, phone=2147483647, userStatus=0)
+[INFO ]2024-11-2404:02:05.685[main]log.LoggerLoad1)-I m in post user method
+[INFO ]2024-11-2404:05:48.453[main]log.LoggerLoad1)-userPayload java object for post isUser(id=100, username=User1, firstName=john , lastName=kennedy, email=test1@gmail.com, password=abcd, phone=2147483647, userStatus=0)
+[INFO ]2024-11-2404:05:48.491[main]log.LoggerLoad1)-I m in post user method
+[INFO ]2024-11-2404:05:48.689[main]log.LoggerLoad1)-userPayload java object for post isUser(id=101, username=User2, firstName=kim, lastName=kom, email=test2@gmail.com, password=efgh, phone=1111122222, userStatus=0)
+[INFO ]2024-11-2404:05:48.691[main]log.LoggerLoad1)-I m in post user method
+[INFO ]2024-11-2404:05:48.896[main]log.LoggerLoad1)-userPayload java object for post isUser(id=102, username=User3, firstName=smith, lastName=roherman, email=test3@gmail.com, password=ijkl, phone=2147483647, userStatus=0)
+[INFO ]2024-11-2404:05:48.902[main]log.LoggerLoad1)-I m in post user method
+[INFO ]2024-11-2404:05:49.104[main]log.LoggerLoad1)-userPayload java object for post isUser(id=103, username=user4, firstName=, lastName=asda, email=test4@gmail.com, password=efcd, phone=2147483647, userStatus=0)
+[INFO ]2024-11-2404:05:49.110[main]log.LoggerLoad1)-I m in post user method
