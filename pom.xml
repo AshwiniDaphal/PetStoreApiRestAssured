@@ -58,7 +58,13 @@
 			<artifactId>json-schema-validator</artifactId>
 			<version>5.4.0</version>
 		</dependency>
-
+		
+		<!-- https://mvnrepository.com/artifact/com.aventstack/extentreports-testng-adapter -->
+		<dependency>
+		    <groupId>com.aventstack</groupId>
+		    <artifactId>extentreports-testng-adapter</artifactId>
+		    <version>1.0.7</version>
+		</dependency>
 		<!--log4j-api Logging purpose-->
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
@@ -73,19 +79,19 @@
 			<version>2.20.0</version>
 		</dependency>
 
-		<!--com.aventstack/extentreports -->
+		<!--com.aventstack/extentreports
 		<dependency>
 			<groupId>com.aventstack</groupId>
 			<artifactId>extentreports</artifactId>
 			<version>5.0.3</version>
 		</dependency>
 
-		<!--extentreports-cucumber7-adapter Extent Report-->
+		
 		<dependency>
 			<groupId>tech.grasshopper</groupId>
 			<artifactId>extentreports-cucumber7-adapter</artifactId>
 			<version>1.14.0</version>
-		</dependency>
+		</dependency>-->
 
 		<!-- Allure report -->
 		<dependency>
